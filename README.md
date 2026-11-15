@@ -1,20 +1,66 @@
-<<<<<<< HEAD
-# React + Vite
+# SafeStay
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SafeStay is a student accommodation platform developed for Daystar University students. The platform helps students discover, compare, and secure verified housing options near campus while providing landlords and property managers with tools to manage listings efficiently.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### For Students
 
-## React Compiler
+- Browse verified accommodation listings
+- Search and filter properties by location, price, amenities, and room type
+- View detailed property information and photos
+- Compare accommodation options
+- Save favorite listings
+- Submit booking and accommodation inquiries
+- Access landlord contact information securely
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### For Landlords
 
-## Expanding the ESLint configuration
+- Create and manage property listings
+- Upload property images and amenities
+- Monitor inquiries from students
+- Update availability status
+- Manage accommodation details through a dashboard
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# safestay
->>>>>>> 7c1a203c9eedf5aeeb38b4b480d9dbe94ec490fe
+### For Administrators
+
+- Verify accommodation listings
+- Moderate platform content
+- Manage users and property records
+- Monitor platform activity
+
+## Technology Stack
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- ESLint
+
+## Getting Started
+
+### Installation
+
+npm install
+
+### Development
+
+npm run dev
+
+### Build for Production
+
+npm run build
+
+### Preview Production Build
+
+npm run preview
+
+## Project Goal
+
+SafeStay aims to simplify the accommodation search process for Daystar University students by providing a centralized, secure, and reliable platform for finding verified student housing.
+
+## Repository
+
+GitHub: [https://github.com/amjakes/safestay](https://github.com/amjakes/safestay)
+
